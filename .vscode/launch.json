@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ParrotSalute",
+            "request": "launch",
+            "mainClass": "ParrotSalute"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ForLoop",
+            "request": "launch",
+            "mainClass": "ForLoop"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DoWhile",
+            "request": "launch",
+            "mainClass": "DoWhile"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SampleLoop",
+            "request": "launch",
+            "mainClass": "SampleLoop"
+        }
+    ]
+}
