@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MaxValue",
+            "request": "launch",
+            "mainClass": "MaxValue",
+            "projectName": "INFO1_MOD6-Ciclos_2944ebaf"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Loop5",
+            "request": "launch",
+            "mainClass": "Loop5",
+            "projectName": "INFO1_MOD6-Ciclos_2944ebaf"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Print5",
+            "request": "launch",
+            "mainClass": "Print5",
+            "projectName": "INFO1_MOD6-Ciclos_2944ebaf"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ParrotSalute",
             "request": "launch",
             "mainClass": "ParrotSalute"
