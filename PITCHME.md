@@ -19,7 +19,7 @@
 +++
 ## Loops
 Un bucle / ciclo / loop, es una sección de código diseñada para repetirse. Por lo general, cuenta con tres secciones:
-@ol[text-08]
+@ol[text-08](false)
 1. @css[text-blue](Cuerpo [Body]): ¿Qué quiero repetir?
 2. @css[text-blue](Variable[s] de Control [Control variable]): ¿Qué variable va a controlar la repetición?
 3. @css[text-blue](Condición[es] de Salida [Exit condition]): ¿Cuántas veces lo queremos repetir?
@@ -30,7 +30,7 @@ Un bucle / ciclo / loop, es una sección de código diseñada para repetirse. Po
 @code[java zoom-08](assets/src/Print5.java)
 @snapend
 
-@snap[midpoint span-100 text-08 bg-black text-white fragment]
+@snap[midpoint span-100 text-08 bg-black text-white]
 Ambos programas son equivalentes, pero ¿si quisiéramos imprimir 100 números? ¿Qué modificaciones haríamos a cada uno?
 @snapend
 
@@ -137,7 +137,7 @@ for(initialization; boolean_condition; update){
 }
 ```
 
-+++?code=assets/src/ForLoop.java&lines=5-7
++++?code=assets/src/ForLoop.java&lines=3-5
 @[1-3](Ciclo completo)
 @[1](int i = 9 <-- Inicialización. Se declara una variable que sólo existe dentro del ciclo.)
 @[1](i>=0 <-- Condición. Mientras esta condición se cumpla,el ciclo for continuará ejecutándose.)
@@ -158,7 +158,7 @@ Toma en cuenta lo siguiente:
 @snapend
 +++
 
-@code[java zoom-07](assets/src/ParrotSalute.java)
+@code[java zoom-07](assets/src/ParrotSalute.java?lines=5-25)
 
 ---
 @snap[midpoint span-100]
