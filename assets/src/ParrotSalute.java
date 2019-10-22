@@ -21,5 +21,7 @@ public class ParrotSalute {
         }
 
         System.out.println(salute);
+
+        keyboard.close();
     }
 }

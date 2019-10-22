@@ -21,6 +21,7 @@ public class MaxValue {
             System.out.println("Week " + week + ". Current occuppancy:s " +  String.format("%.2f", bugOccupancy) + "%");
         } while(schoolVolume > bugVolume);
 
+        keyboard.close();
 
     }
 }
