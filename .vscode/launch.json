@@ -2,6 +2,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - InvertNumbers",
+            "request": "launch",
+            "mainClass": "InvertNumbers"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountDigits",
+            "request": "launch",
+            "mainClass": "CountDigits"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CheckDate",
+            "request": "launch",
+            "mainClass": "CheckDate"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RomanNumberals",
+            "request": "launch",
+            "mainClass": "RomanNumberals"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MaxValue",
             "request": "launch",
             "mainClass": "MaxValue",
