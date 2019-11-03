@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CountVocals",
+            "request": "launch",
+            "mainClass": "CountVocals",
+            "projectName": "INFO1_MOD6-Ciclos_2944ebaf"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FizzBuzz",
+            "request": "launch",
+            "mainClass": "FizzBuzz",
+            "projectName": "INFO1_MOD6-Ciclos_2944ebaf"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MaxValue",
             "request": "launch",
             "mainClass": "MaxValue",
