@@ -1,7 +1,9 @@
 {
     "configurations": [
+        
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "CodeLens (Launch) - CountVocals",
             "request": "launch",
             "mainClass": "CountVocals",
@@ -13,6 +15,29 @@
             "request": "launch",
             "mainClass": "FizzBuzz",
             "projectName": "INFO1_MOD6-Ciclos_2944ebaf"
+=======
+            "name": "CodeLens (Launch) - InvertNumbers",
+            "request": "launch",
+            "mainClass": "InvertNumbers"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CountDigits",
+            "request": "launch",
+            "mainClass": "CountDigits"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CheckDate",
+            "request": "launch",
+            "mainClass": "CheckDate"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RomanNumberals",
+            "request": "launch",
+            "mainClass": "RomanNumberals"
+>>>>>>> 334593469724060b4c7ae6cd324044ad3c658045
         },
         {
             "type": "java",

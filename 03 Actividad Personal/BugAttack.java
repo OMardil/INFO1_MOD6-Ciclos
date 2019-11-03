@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MaxValue {
+public class BugAttack {
 
     public static final double ONE_BUG_VOLUME = 0.002; // m3
     public static final double GROWTH_RATE = 0.95; // 95% each week
